@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    font-size: 17px;
+    line-height: 28px;
+}
