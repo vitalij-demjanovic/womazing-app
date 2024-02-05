@@ -14,7 +14,8 @@ const config: Config = {
       primary: '#6E9C9F',
       second: '#509498',
       third: '#F1EADC',
-      white: '#fff'
+      white: '#fff',
+      black: '#000000'
     },
     fontSize: {
       titleXl: ['55px', '60px'],
